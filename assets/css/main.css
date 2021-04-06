@@ -2676,6 +2676,10 @@ input, select, textarea {
 		margin-top: 3em;
 	}
 
+	footer.major a {
+		border-bottom: none;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		header.major {
